@@ -1,0 +1,27 @@
+.cantain{
+  display: flex;
+  height: 100%;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 700px;
+  ;
+}
+.postcard{
+  margin: 20px;
+}
+.bar{
+  margin:5px;
+}
+.tagging{
+  margin: 3px;
+  font-size: large;
+  font-weight: bold;
+}
+.CREATE{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+}

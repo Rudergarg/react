@@ -1,0 +1,10 @@
+.buttonC{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.Button{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
